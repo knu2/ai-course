@@ -16,7 +16,7 @@
 - [Additional Resources](#additional-resources)
 
 ## Objective
-By the end of this module, you'll be able to use Matplotlib—Python's most powerful visualization library—to transform your Pandas DataFrames into compelling charts and graphs. With AI assistance to streamline the process, you'll learn how to communicate data insights visually, revealing patterns and relationships that might remain hidden in tables of numbers. This module builds directly on your data analytics skills from Module 3, teaching you how to create impactful visualizations for more effective decision-making.
+By the end of this module, you'll be able to use Matplotlib—Python's most powerful visualization library—to transform your Pandas DataFrames into compelling charts and graphs. With AI assistance to streamline the process, you'll learn how to communicate data insights visually, revealing patterns and relationships that might remain hidden in tables of numbers. This module builds directly on your Python fundamentals from Module 1, the data structures from Module 2, and especially the Pandas DataFrame skills from Module 3. You'll visualize the same types of datasets you worked with in Module 3, creating impactful visualizations for more effective decision-making, which will prepare you for the predictive analytics in Module 5.
 
 ### Learning Outcomes
 - **Understand** the principles of effective data visualization and its critical role in analytics
@@ -238,7 +238,7 @@ plt.show()
   - Iterate with feedback: "The legend is overlapping with data—can you reposition it?"
 
 - **Complete Example Workflow**:
-```
+
 Your prompt: "Help me create a bar chart showing product sales with the bars colored by category."
 
 AI provides code:
@@ -261,7 +261,7 @@ plt.show()
 Your follow-up: "Can you add a horizontal line showing the average sales across all products?"
 
 AI provides additional code...etc.
-```
+
 
 - **Why This Matters**: AI handles the technical implementation, letting you focus on what the visualization needs to communicate.
 
@@ -361,7 +361,7 @@ df["revenue"] = df["price"] * df["quantity"]
 ### Matplotlib Architecture
 ```
 ┌─────────────────────────────────────────────────────────────┐
-│ FIGURE                                                       │
+│ FIGURE                                                      │
 │  ┌─────────────────────────┐    ┌─────────────────────────┐ │
 │  │ SUBPLOT (Axes)          │    │ SUBPLOT (Axes)          │ │
 │  │                         │    │                         │ │

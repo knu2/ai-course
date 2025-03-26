@@ -10,7 +10,7 @@ Below is a beginner's course titled **"Python with AI for Data Analytics"**, des
   - Practical projects rooted in data analytics, such as analyzing sales data or survey results.
   - Emphasis on AI as both a learning companion and a tool for analytics tasks.
 - **Prerequisites**: None—starts from scratch with Python and introduces data analytics concepts gradually.
-- **Duration**: Approximately **25 hours** total, spread across 5 modules, with flexibility for self-paced learning.
+- **Duration**: Approximately **26 hours** total, spread across 5 modules, with flexibility for self-paced learning.
 - **Tools**: Python (via Google Colab or a local IDE like VS Code), Pandas, Matplotlib, NumPy, and an AI assistant (e.g., Grok or ChatGPT for code generation/explanation).
 - **Outcome**: By the end, students will write Python code with AI help, perform basic data analytics, and use AI to automate repetitive tasks like data summarization.
 
@@ -58,7 +58,7 @@ Below is a beginner's course titled **"Python with AI for Data Analytics"**, des
   - Use AI to fix errors (e.g., missing data) in a dataset.
 - **Estimated Time**: 6 hours.
 
-#### Module 4: Visualizing Data with Matplotlib and AI (5 hours)
+#### Module 4: Visualizing Data with Matplotlib and AI (6 hours)
 - **Objective**: Create visualizations to understand data, using AI to customize plots.
 - **Topics**:
   - Introduction to data visualization: Why it matters (30 min).
@@ -87,11 +87,11 @@ Below is a beginner's course titled **"Python with AI for Data Analytics"**, des
 ---
 
 ### Total Estimated Completion Time
-- **Total Hours**: 25 hours  
+- **Total Hours**: 26 hours  
   - Module 1: 4 hours  
   - Module 2: 5 hours  
   - Module 3: 6 hours  
-  - Module 4: 5 hours  
+  - Module 4: 6 hours  
   - Module 5: 5 hours  
 - **Pace**: Self-paced; a beginner could complete it in 2-4 weeks with 5-10 hours per week, depending on comfort level and AI reliance.
 

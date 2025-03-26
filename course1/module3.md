@@ -16,7 +16,7 @@
 - [Additional Resources](#additional-resources)
 
 ## Objective
-By the end of this module, you'll be able to use Pandas—a powerful Python library—to load, clean, and explore datasets with the help of your AI assistant. This module introduces you to data analytics, teaching you how to handle real-world data like sales records, preparing you for visualization and predictive tasks in later modules.
+By the end of this module, you'll be able to use Pandas—a powerful Python library—to load, clean, and explore datasets with the help of your AI assistant. Building on the Python fundamentals from Module 1 and data structures from Module 2, this module introduces you to data analytics, teaching you how to handle real-world data like sales records, preparing you for visualization in Module 4 and predictive tasks in Module 5.
 
 ### Learning Outcomes
 - **Understand** the fundamentals of data analytics and its real-world applications

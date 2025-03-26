@@ -1,5 +1,19 @@
 # Module 2: Working with Data Structures and AI (5 Hours)
 
+*Master Python's core data structures and learn how to use AI to manipulate and analyze collections of data*
+
+## Table of Contents
+- [Objective](#objective)
+- [Topics and Content Breakdown](#topics-and-content-breakdown)
+  - [1. Lists](#1-lists-creating-indexing-and-modifying-1-hour-)
+  - [2. Dictionaries](#2-dictionaries-key-value-pairs-for-structured-data-1-hour-)
+  - [3. Loops](#3-loops-iterating-over-data-with-for-loops-1-hour-)
+  - [4. Using AI to Simplify](#4-using-ai-to-simplify-data-structure-tasks-1-hour-)
+  - [5. Mini-Project](#5-mini-project-analyzing-temperature-data-with-ai-assistance-1-hour-30-minutes-)
+  - [6. Check Your Understanding](#6-check-your-understanding-module-2-review-15-minutes-)
+- [Visual Learning Aids](#visual-learning-aids)
+- [Additional Resources](#additional-resources)
+
 ## Objective
 By the end of this module, you'll understand Python's core data structures (lists and dictionaries) and how to use loops to process data efficiently. You'll also learn how to leverage your AI assistant to manipulate and analyze these structures, setting the foundation for more advanced data analytics tasks in later modules.
 
